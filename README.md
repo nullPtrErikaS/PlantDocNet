@@ -8,5 +8,11 @@
 - Model evaluation with confusion matrix and classification report
 - Inference on individual plant leaf images
 
-## Project Structure
+
+## Getting Started
+
+1. **Install requirements**
+
+```bash
+pip install -r requirements.txt
 
